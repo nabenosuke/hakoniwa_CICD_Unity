@@ -1,2 +1,9 @@
 
 HakoniwaML2/Temp/UnityLockfile
+Hakoniwa_CICD/Temp/UnityLockfile
+Hakoniwa_CICD/Library/ArtifactDB
+*.json
+Hakoniwa_CICD/Library/ArtifactDB
+*.log
+Hakoniwa_CICD/Library/ArtifactDB
+Hakoniwa_CICD/Library/SourceAssetDB
