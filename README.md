@@ -1,0 +1,8 @@
+# hakoniwa_CICD_Unity
+
+unitypackageをインポート
+Test_Courseシーンを選択
+config.jsonと同様に、env/StateManager.PyStart.PythonPathにパスを設定
+シミュレータを実行することでパラメータ探索を実行
+
+env/StateManagerでイベント状況を管理
